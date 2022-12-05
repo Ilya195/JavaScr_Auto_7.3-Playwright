@@ -1,0 +1,19 @@
+{
+  "name": "play",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.28.1",
+    "playwright": "^1.28.1"
+  },
+  "directories": {
+    "test": "tests"
+  }
+}
